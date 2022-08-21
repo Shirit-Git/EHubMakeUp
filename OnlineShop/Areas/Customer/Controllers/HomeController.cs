@@ -121,7 +121,7 @@ namespace OnlineShop.Controllers
 
         //GET product Cart action method
 
-        public IActionResult Cart()
+        public IActionResult Bookings()
         {
             List<Products> products = HttpContext.Session.Get<List<Products>>("products");
             if(products==null)

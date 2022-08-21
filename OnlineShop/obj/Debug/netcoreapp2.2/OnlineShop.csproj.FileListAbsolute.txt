@@ -173,15 +173,8 @@ C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcore
 C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.TagHelpers.input.cache
 C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.TagHelpers.output.cache
 C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorCoreGenerate.cache
-C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Assign.cshtml.g.cs
-C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\AssignUserRole.cshtml.g.cs
-C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Create.cshtml.g.cs
-C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Delete.cshtml.g.cs
-C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Edit.cshtml.g.cs
-C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
 C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
-C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
 C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Detail.cshtml.g.cs
 C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
 C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
@@ -261,3 +254,4 @@ C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcore
 C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\MakeUpArtist\Details.cshtml.g.cs
 C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\MakeUpArtist\Edit.cshtml.g.cs
 C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\MakeUpArtist\Index.cshtml.g.cs
+C:\Users\SHRISTI\Desktop\College-Project\EHubMakeUp\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Bookings.cshtml.g.cs

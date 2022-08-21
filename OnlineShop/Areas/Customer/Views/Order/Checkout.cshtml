@@ -17,7 +17,7 @@
 }
 <br />
 
-<h2 class="text-info">Order Details</h2>
+<h2 class="text-info">Booking Details</h2>
 <form asp-action="" method="post" enctype="multipart/form-data">
     <div class="p-4 rounded border row">
         <div asp-validation-summary="ModelOnly" class="text-danger">
@@ -69,7 +69,7 @@
             </div>
             <div class="form-group row">
                 <div class="col-4">
-                    <label asp-for="OrderDate"></label>
+                    <label asp-for="OrderDate">Book Date</label>
                 </div>
                 <div class="col-8">
                     @*<select asp-for="SpecialTagId" asp-items="ViewBag.TagId" class="form-control"></select>*@
