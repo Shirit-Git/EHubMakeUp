@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHRISTI\\Desktop\\College-Project\\EHubMakeUp\\OnlineShop\\OnlineShop.csproj": {}
+    "C:\\Users\\SHRISTI\\Desktop\\College-Project\\EHubMakeUp(Current Project)\\OnlineShop\\OnlineShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHRISTI\\Desktop\\College-Project\\EHubMakeUp\\OnlineShop\\OnlineShop.csproj": {
+    "C:\\Users\\SHRISTI\\Desktop\\College-Project\\EHubMakeUp(Current Project)\\OnlineShop\\OnlineShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHRISTI\\Desktop\\College-Project\\EHubMakeUp\\OnlineShop\\OnlineShop.csproj",
+        "projectUniqueName": "C:\\Users\\SHRISTI\\Desktop\\College-Project\\EHubMakeUp(Current Project)\\OnlineShop\\OnlineShop.csproj",
         "projectName": "OnlineShop",
-        "projectPath": "C:\\Users\\SHRISTI\\Desktop\\College-Project\\EHubMakeUp\\OnlineShop\\OnlineShop.csproj",
+        "projectPath": "C:\\Users\\SHRISTI\\Desktop\\College-Project\\EHubMakeUp(Current Project)\\OnlineShop\\OnlineShop.csproj",
         "packagesPath": "C:\\Users\\SHRISTI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHRISTI\\Desktop\\College-Project\\EHubMakeUp\\OnlineShop\\obj\\",
+        "outputPath": "C:\\Users\\SHRISTI\\Desktop\\College-Project\\EHubMakeUp(Current Project)\\OnlineShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
